@@ -1,0 +1,8 @@
+C:\Users\PULATE\source\repos\Assignment 3.4 custom exception\Assignment 3.4 custom exception\bin\Debug\Assignment 3.4 custom exception.exe.config
+C:\Users\PULATE\source\repos\Assignment 3.4 custom exception\Assignment 3.4 custom exception\bin\Debug\Assignment 3.4 custom exception.exe
+C:\Users\PULATE\source\repos\Assignment 3.4 custom exception\Assignment 3.4 custom exception\bin\Debug\Assignment 3.4 custom exception.pdb
+C:\Users\PULATE\source\repos\Assignment 3.4 custom exception\Assignment 3.4 custom exception\obj\Debug\Assignment 3.4 custom exception.csproj.AssemblyReference.cache
+C:\Users\PULATE\source\repos\Assignment 3.4 custom exception\Assignment 3.4 custom exception\obj\Debug\Assignment 3.4 custom exception.csproj.SuggestedBindingRedirects.cache
+C:\Users\PULATE\source\repos\Assignment 3.4 custom exception\Assignment 3.4 custom exception\obj\Debug\Assignment 3.4 custom exception.csproj.CoreCompileInputs.cache
+C:\Users\PULATE\source\repos\Assignment 3.4 custom exception\Assignment 3.4 custom exception\obj\Debug\Assignment 3.4 custom exception.exe
+C:\Users\PULATE\source\repos\Assignment 3.4 custom exception\Assignment 3.4 custom exception\obj\Debug\Assignment 3.4 custom exception.pdb
