@@ -1,0 +1,8 @@
+C:\Users\PULATE\source\repos\Assignment 5.1 Basic Array\Assignment 5.1 Basic Array\bin\Debug\Assignment 5.1 Basic Array.exe.config
+C:\Users\PULATE\source\repos\Assignment 5.1 Basic Array\Assignment 5.1 Basic Array\bin\Debug\Assignment 5.1 Basic Array.exe
+C:\Users\PULATE\source\repos\Assignment 5.1 Basic Array\Assignment 5.1 Basic Array\bin\Debug\Assignment 5.1 Basic Array.pdb
+C:\Users\PULATE\source\repos\Assignment 5.1 Basic Array\Assignment 5.1 Basic Array\obj\Debug\Assignment 5.1 Basic Array.csproj.AssemblyReference.cache
+C:\Users\PULATE\source\repos\Assignment 5.1 Basic Array\Assignment 5.1 Basic Array\obj\Debug\Assignment 5.1 Basic Array.csproj.SuggestedBindingRedirects.cache
+C:\Users\PULATE\source\repos\Assignment 5.1 Basic Array\Assignment 5.1 Basic Array\obj\Debug\Assignment 5.1 Basic Array.csproj.CoreCompileInputs.cache
+C:\Users\PULATE\source\repos\Assignment 5.1 Basic Array\Assignment 5.1 Basic Array\obj\Debug\Assignment 5.1 Basic Array.exe
+C:\Users\PULATE\source\repos\Assignment 5.1 Basic Array\Assignment 5.1 Basic Array\obj\Debug\Assignment 5.1 Basic Array.pdb

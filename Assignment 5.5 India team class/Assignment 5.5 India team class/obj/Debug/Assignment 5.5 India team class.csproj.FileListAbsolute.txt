@@ -1,0 +1,8 @@
+C:\Users\PULATE\source\repos\Assignment 5.5 India team class\Assignment 5.5 India team class\bin\Debug\Assignment 5.5 India team class.exe.config
+C:\Users\PULATE\source\repos\Assignment 5.5 India team class\Assignment 5.5 India team class\bin\Debug\Assignment 5.5 India team class.exe
+C:\Users\PULATE\source\repos\Assignment 5.5 India team class\Assignment 5.5 India team class\bin\Debug\Assignment 5.5 India team class.pdb
+C:\Users\PULATE\source\repos\Assignment 5.5 India team class\Assignment 5.5 India team class\obj\Debug\Assignment 5.5 India team class.csproj.AssemblyReference.cache
+C:\Users\PULATE\source\repos\Assignment 5.5 India team class\Assignment 5.5 India team class\obj\Debug\Assignment 5.5 India team class.csproj.SuggestedBindingRedirects.cache
+C:\Users\PULATE\source\repos\Assignment 5.5 India team class\Assignment 5.5 India team class\obj\Debug\Assignment 5.5 India team class.csproj.CoreCompileInputs.cache
+C:\Users\PULATE\source\repos\Assignment 5.5 India team class\Assignment 5.5 India team class\obj\Debug\Assignment 5.5 India team class.exe
+C:\Users\PULATE\source\repos\Assignment 5.5 India team class\Assignment 5.5 India team class\obj\Debug\Assignment 5.5 India team class.pdb

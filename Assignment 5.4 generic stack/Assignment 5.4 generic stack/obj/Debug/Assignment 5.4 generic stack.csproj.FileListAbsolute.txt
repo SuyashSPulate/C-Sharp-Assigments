@@ -1,0 +1,8 @@
+C:\Users\PULATE\source\repos\Assignment 5.4 generic stack\Assignment 5.4 generic stack\bin\Debug\Assignment 5.4 generic stack.exe.config
+C:\Users\PULATE\source\repos\Assignment 5.4 generic stack\Assignment 5.4 generic stack\bin\Debug\Assignment 5.4 generic stack.exe
+C:\Users\PULATE\source\repos\Assignment 5.4 generic stack\Assignment 5.4 generic stack\bin\Debug\Assignment 5.4 generic stack.pdb
+C:\Users\PULATE\source\repos\Assignment 5.4 generic stack\Assignment 5.4 generic stack\obj\Debug\Assignment 5.4 generic stack.csproj.AssemblyReference.cache
+C:\Users\PULATE\source\repos\Assignment 5.4 generic stack\Assignment 5.4 generic stack\obj\Debug\Assignment 5.4 generic stack.csproj.SuggestedBindingRedirects.cache
+C:\Users\PULATE\source\repos\Assignment 5.4 generic stack\Assignment 5.4 generic stack\obj\Debug\Assignment 5.4 generic stack.csproj.CoreCompileInputs.cache
+C:\Users\PULATE\source\repos\Assignment 5.4 generic stack\Assignment 5.4 generic stack\obj\Debug\Assignment 5.4 generic stack.exe
+C:\Users\PULATE\source\repos\Assignment 5.4 generic stack\Assignment 5.4 generic stack\obj\Debug\Assignment 5.4 generic stack.pdb
