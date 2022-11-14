@@ -1,0 +1,8 @@
+C:\Users\PULATE\source\repos\Assignment 5.2 MultiCast Delegate\Assignment 5.2 MultiCast Delegate\bin\Debug\Assignment 5.2 MultiCast Delegate.exe.config
+C:\Users\PULATE\source\repos\Assignment 5.2 MultiCast Delegate\Assignment 5.2 MultiCast Delegate\bin\Debug\Assignment 5.2 MultiCast Delegate.exe
+C:\Users\PULATE\source\repos\Assignment 5.2 MultiCast Delegate\Assignment 5.2 MultiCast Delegate\bin\Debug\Assignment 5.2 MultiCast Delegate.pdb
+C:\Users\PULATE\source\repos\Assignment 5.2 MultiCast Delegate\Assignment 5.2 MultiCast Delegate\obj\Debug\Assignment 5.2 MultiCast Delegate.csproj.AssemblyReference.cache
+C:\Users\PULATE\source\repos\Assignment 5.2 MultiCast Delegate\Assignment 5.2 MultiCast Delegate\obj\Debug\Assignment 5.2 MultiCast Delegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\PULATE\source\repos\Assignment 5.2 MultiCast Delegate\Assignment 5.2 MultiCast Delegate\obj\Debug\Assignment 5.2 MultiCast Delegate.csproj.CoreCompileInputs.cache
+C:\Users\PULATE\source\repos\Assignment 5.2 MultiCast Delegate\Assignment 5.2 MultiCast Delegate\obj\Debug\Assignment 5.2 MultiCast Delegate.exe
+C:\Users\PULATE\source\repos\Assignment 5.2 MultiCast Delegate\Assignment 5.2 MultiCast Delegate\obj\Debug\Assignment 5.2 MultiCast Delegate.pdb

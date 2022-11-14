@@ -1,0 +1,8 @@
+C:\Users\PULATE\source\repos\Assignment 6.1 UniCast Delegate\Assignment 6.1 UniCast Delegate\bin\Debug\Assignment 6.1 UniCast Delegate.exe.config
+C:\Users\PULATE\source\repos\Assignment 6.1 UniCast Delegate\Assignment 6.1 UniCast Delegate\bin\Debug\Assignment 6.1 UniCast Delegate.exe
+C:\Users\PULATE\source\repos\Assignment 6.1 UniCast Delegate\Assignment 6.1 UniCast Delegate\bin\Debug\Assignment 6.1 UniCast Delegate.pdb
+C:\Users\PULATE\source\repos\Assignment 6.1 UniCast Delegate\Assignment 6.1 UniCast Delegate\obj\Debug\Assignment 6.1 UniCast Delegate.csproj.AssemblyReference.cache
+C:\Users\PULATE\source\repos\Assignment 6.1 UniCast Delegate\Assignment 6.1 UniCast Delegate\obj\Debug\Assignment 6.1 UniCast Delegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\PULATE\source\repos\Assignment 6.1 UniCast Delegate\Assignment 6.1 UniCast Delegate\obj\Debug\Assignment 6.1 UniCast Delegate.csproj.CoreCompileInputs.cache
+C:\Users\PULATE\source\repos\Assignment 6.1 UniCast Delegate\Assignment 6.1 UniCast Delegate\obj\Debug\Assignment 6.1 UniCast Delegate.exe
+C:\Users\PULATE\source\repos\Assignment 6.1 UniCast Delegate\Assignment 6.1 UniCast Delegate\obj\Debug\Assignment 6.1 UniCast Delegate.pdb
