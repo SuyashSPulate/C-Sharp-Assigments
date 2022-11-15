@@ -1,0 +1,8 @@
+C:\Users\PULATE\source\repos\Assignment 7.1 SystemIO\Assignment 7.1 SystemIO\bin\Debug\Assignment 7.1 SystemIO.exe.config
+C:\Users\PULATE\source\repos\Assignment 7.1 SystemIO\Assignment 7.1 SystemIO\bin\Debug\Assignment 7.1 SystemIO.exe
+C:\Users\PULATE\source\repos\Assignment 7.1 SystemIO\Assignment 7.1 SystemIO\bin\Debug\Assignment 7.1 SystemIO.pdb
+C:\Users\PULATE\source\repos\Assignment 7.1 SystemIO\Assignment 7.1 SystemIO\obj\Debug\Assignment 7.1 SystemIO.csproj.AssemblyReference.cache
+C:\Users\PULATE\source\repos\Assignment 7.1 SystemIO\Assignment 7.1 SystemIO\obj\Debug\Assignment 7.1 SystemIO.csproj.SuggestedBindingRedirects.cache
+C:\Users\PULATE\source\repos\Assignment 7.1 SystemIO\Assignment 7.1 SystemIO\obj\Debug\Assignment 7.1 SystemIO.csproj.CoreCompileInputs.cache
+C:\Users\PULATE\source\repos\Assignment 7.1 SystemIO\Assignment 7.1 SystemIO\obj\Debug\Assignment 7.1 SystemIO.exe
+C:\Users\PULATE\source\repos\Assignment 7.1 SystemIO\Assignment 7.1 SystemIO\obj\Debug\Assignment 7.1 SystemIO.pdb

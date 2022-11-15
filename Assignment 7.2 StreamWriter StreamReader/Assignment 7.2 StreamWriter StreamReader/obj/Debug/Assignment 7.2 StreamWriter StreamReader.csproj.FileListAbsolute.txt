@@ -1,0 +1,8 @@
+C:\Users\PULATE\source\repos\Assignment 7.2 StreamWriter StreamReader\Assignment 7.2 StreamWriter StreamReader\bin\Debug\Assignment 7.2 StreamWriter StreamReader.exe.config
+C:\Users\PULATE\source\repos\Assignment 7.2 StreamWriter StreamReader\Assignment 7.2 StreamWriter StreamReader\bin\Debug\Assignment 7.2 StreamWriter StreamReader.exe
+C:\Users\PULATE\source\repos\Assignment 7.2 StreamWriter StreamReader\Assignment 7.2 StreamWriter StreamReader\bin\Debug\Assignment 7.2 StreamWriter StreamReader.pdb
+C:\Users\PULATE\source\repos\Assignment 7.2 StreamWriter StreamReader\Assignment 7.2 StreamWriter StreamReader\obj\Debug\Assignment 7.2 StreamWriter StreamReader.csproj.AssemblyReference.cache
+C:\Users\PULATE\source\repos\Assignment 7.2 StreamWriter StreamReader\Assignment 7.2 StreamWriter StreamReader\obj\Debug\Assignment 7.2 StreamWriter StreamReader.csproj.SuggestedBindingRedirects.cache
+C:\Users\PULATE\source\repos\Assignment 7.2 StreamWriter StreamReader\Assignment 7.2 StreamWriter StreamReader\obj\Debug\Assignment 7.2 StreamWriter StreamReader.csproj.CoreCompileInputs.cache
+C:\Users\PULATE\source\repos\Assignment 7.2 StreamWriter StreamReader\Assignment 7.2 StreamWriter StreamReader\obj\Debug\Assignment 7.2 StreamWriter StreamReader.exe
+C:\Users\PULATE\source\repos\Assignment 7.2 StreamWriter StreamReader\Assignment 7.2 StreamWriter StreamReader\obj\Debug\Assignment 7.2 StreamWriter StreamReader.pdb

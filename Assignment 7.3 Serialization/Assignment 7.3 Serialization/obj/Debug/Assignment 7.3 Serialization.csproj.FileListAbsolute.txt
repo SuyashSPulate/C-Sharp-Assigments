@@ -1,0 +1,8 @@
+C:\Users\PULATE\source\repos\Assignment 7.3 Serialization\Assignment 7.3 Serialization\bin\Debug\Assignment 7.3 Serialization.exe.config
+C:\Users\PULATE\source\repos\Assignment 7.3 Serialization\Assignment 7.3 Serialization\bin\Debug\Assignment 7.3 Serialization.exe
+C:\Users\PULATE\source\repos\Assignment 7.3 Serialization\Assignment 7.3 Serialization\bin\Debug\Assignment 7.3 Serialization.pdb
+C:\Users\PULATE\source\repos\Assignment 7.3 Serialization\Assignment 7.3 Serialization\obj\Debug\Assignment 7.3 Serialization.csproj.AssemblyReference.cache
+C:\Users\PULATE\source\repos\Assignment 7.3 Serialization\Assignment 7.3 Serialization\obj\Debug\Assignment 7.3 Serialization.csproj.SuggestedBindingRedirects.cache
+C:\Users\PULATE\source\repos\Assignment 7.3 Serialization\Assignment 7.3 Serialization\obj\Debug\Assignment 7.3 Serialization.csproj.CoreCompileInputs.cache
+C:\Users\PULATE\source\repos\Assignment 7.3 Serialization\Assignment 7.3 Serialization\obj\Debug\Assignment 7.3 Serialization.exe
+C:\Users\PULATE\source\repos\Assignment 7.3 Serialization\Assignment 7.3 Serialization\obj\Debug\Assignment 7.3 Serialization.pdb
